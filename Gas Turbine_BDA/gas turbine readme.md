@@ -11,14 +11,15 @@
 * Ship spped :: 선속 (linear function of the lever position lp).
 * Compressor degradation coefficient kMc.(압축기 열화 계수)
 * Turbine degradation coefficiednt kMt.(터빈열화계수)
-각 가능한 
+
+각 가능한 열화 상태는 lp, kMt, kMc의 조합으로 설명될 수 있음.
 
 
 ###Attribute Information :
 A 16-feature vector containing the GT measures at steady state of the physical asset:
-* Lever posirion (lp) [ ]
-* Ship spped (v) [knots]
-* Gas Turbine (GT) shaft torque (GTT) [kN m]
+* Lever position (lp) [ ] 
+* Ship spped (v) [knots] 
+* Gas Turbine (GT) shaft torque (GTT) [kN m] 
 * GT rate of revolutions (GTn) [rpm]
 * Gas Generator rate of revolutions (GGn) [rpm]
 * Starboard Propeller Torque (Ts) [kN]
