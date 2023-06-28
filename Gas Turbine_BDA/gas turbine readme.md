@@ -7,7 +7,7 @@
 
 이 시뮬레이터 릴리스에서는 GT 압축기 및 터빈과 같은 GT 구성 요소의 시간 경과에 따른 성능 저하를 고려 할 수 있음
 
-###The propulsion system behaviour has been described with this parameters:
+### The propulsion system behaviour has been described with this parameters:
 * Ship spped :: 선속 (linear function of the lever position lp).
 * Compressor degradation coefficient kMc.(압축기 열화 계수)
 * Turbine degradation coefficiednt kMt.(터빈열화계수)
@@ -15,7 +15,7 @@
 각 가능한 열화 상태는 lp, kMt, kMc의 조합으로 설명될 수 있음.
 
 
-###Attribute Information :
+### Attribute Information :
 A 16-feature vector containing the GT measures at steady state of the physical asset:
 * Lever position (lp) [ ] 
 * Ship spped (v) [knots] 
