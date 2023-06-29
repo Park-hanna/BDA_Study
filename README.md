@@ -22,12 +22,13 @@
 > Estimating Automotive Manufacturing Test Process Times
 
 ### NLP
-> NN Transformer and torchtext stos modeling
-> News category
-> RNN Clasifier
-> RNN Create
-> Sequence to Sequence network attention translation
+> NN Transformer and torchtext stos modeling  
+> News category  
+> RNN Clasifier  
+> RNN Create  
+> Sequence to Sequence network attention translation  
 
 ### Tutorial
-> 
+> Pytorch  
+> Tensorflow - Keras  
 
