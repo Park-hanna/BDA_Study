@@ -24,7 +24,7 @@
 ### NLP
 > NN Transformer and torchtext stos modeling  
 > News category  
-> RNN Clasifier  
+> RNN Classifier  
 > RNN Create  
 > Sequence to Sequence network attention translation  
 
