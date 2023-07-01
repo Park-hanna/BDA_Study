@@ -32,3 +32,5 @@
 > Pytorch  
 > Tensorflow - Keras  
 
+### Fast Campus Study 
+> 패스트 캠퍼스 수업 실습
